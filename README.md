@@ -57,3 +57,5 @@ I’m a passionate and dedicated programmer specializing in React and Laravel.
 <h3>
   Socials
 </h3>
+![image](https://github.com/user-attachments/assets/4410eeac-ab20-44e5-807c-88f16d1ac4a0)
+
