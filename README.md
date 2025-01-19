@@ -70,5 +70,8 @@ I’m a passionate and dedicated programmer specializing in React and Laravel.
 
 
 
+<br/>
 
-
+<div align="center">
+  Love programming and ☕️
+</div>
