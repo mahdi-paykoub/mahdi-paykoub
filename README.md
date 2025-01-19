@@ -57,8 +57,18 @@ I’m a passionate and dedicated programmer specializing in React and Laravel.
 <h3>
   Socials
 </h3>
-<div>
-  https://github.com/user-attachments/assets/e49b6d43-654a-4b3c-a0fc-97cd3c89d5e6
+<div style="">
+  
+  <span>  <img src="https://github.com/user-attachments/assets/e49b6d43-654a-4b3c-a0fc-97cd3c89d5e6"/>   </span> <span> ![image](https://github.com/user-attachments/assets/a1479aa5-93ee-4ff3-9bd7-ad503bbb5d86)</span> <span> ![image](https://github.com/user-attachments/assets/938319b1-4f1a-4b05-9728-66ea5f196aa9)</span>
+  
 </div>
+
+
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi-paykoub&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-paykoub&hide_progress=true)
+
+
+
 
 
